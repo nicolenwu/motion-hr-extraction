@@ -11,7 +11,7 @@ The system processes raw time-series data, isolates physiologically relevant fre
 
 The pipeline consists of the following stages:
 
-1. Data Preparation
+### 1. Data Preparation
 
 - Removed anomalous segments caused by sensor initialization artifacts
 
@@ -19,7 +19,7 @@ The pipeline consists of the following stages:
 
 - Normalized timestamps and structured time-series data
 
-2. Signal Processing
+### 2. Signal Processing
 
 - Applied moving average smoothing
 
@@ -27,7 +27,7 @@ The pipeline consists of the following stages:
 
 - Performed multi-axis signal fusion using L2 norm
 
-3. Frequency-Domain Analysis
+### 3. Frequency-Domain Analysis
 
 - Converted signals from time domain to frequency domain using FFT
 
@@ -35,7 +35,7 @@ The pipeline consists of the following stages:
 
 - Converted frequency peaks to beats per minute (BPM)
 
-4. Evaluation
+### 4. Evaluation
 
 Performance was evaluated across four sensor types using:
 
@@ -43,7 +43,7 @@ Performance was evaluated across four sensor types using:
 - Root Mean Squared Error (RMSE)
 - Standard deviation of error
 
-5. Results
+### 5. Results
 
 - Achieved approximately 85% heart-rate estimation accuracy
 - Demonstrated that meaningful physiological signals can be extracted from motion-based sensors using structured analytical methods
