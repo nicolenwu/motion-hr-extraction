@@ -1,8 +1,5 @@
 # Heart Rate Extraction Using Motion Sensor Data
 
-A Python-based signal processing pipeline that estimates heart rate using motion sensor data to support noninvasive heart-rate monitoring research
-
-
 ## Overview
 
 This project implements a Python-based signal processing pipeline that estimates heart rate using motion sensor data (e.g., accelerometer, gyroscope). The objective is to explore noninvasive heart-rate monitoring using inertial signals instead of traditional optical sensors.
