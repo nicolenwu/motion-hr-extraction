@@ -47,3 +47,8 @@ Performance was evaluated across four sensor types using:
 
 - Achieved approximately 85% heart-rate estimation accuracy
 - Demonstrated that meaningful physiological signals can be extracted from motion-based sensors using structured analytical methods
+
+
+## Data Availability
+
+The original dataset used in this project is not included in this repository due to distribution restrictions. The code is structured to operate on time-series motion sensor data in CSV format, and the pipeline can be adapted to similar inertial datasets.
