@@ -43,7 +43,7 @@ Performance was evaluated across four sensor types using:
 - Root Mean Squared Error (RMSE)
 - Standard deviation of error
 
-### 5. Results
+## Results
 
 - Achieved approximately 85% heart-rate estimation accuracy
 - Demonstrated that meaningful physiological signals can be extracted from motion-based sensors using structured analytical methods
