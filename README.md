@@ -1,4 +1,3 @@
-# motion-hr-extraction
 A Python-based signal processing pipeline that estimates heart rate using motion sensor data to support noninvasive heart-rate monitoring research
 
 
