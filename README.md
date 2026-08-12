@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements a Python-based signal processing pipeline that estimates heart rate using motion sensor data (e.g., accelerometer, gyroscope). The objective is to explore noninvasive heart-rate monitoring using inertial signals instead of traditional optical sensors.
+This project implements a Python-based signal processing and feature engineering pipeline that estimates heart rate using motion sensor data (e.g., accelerometer, gyroscope). The objective is to explore noninvasive heart-rate monitoring using inertial signals instead of traditional optical sensors.
 
 The system processes raw time-series data, isolates physiologically relevant frequencies, and estimates heart rate using frequency-domain analysis.
 
